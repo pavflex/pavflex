@@ -44,12 +44,12 @@
   <a href="https://eslint.org/" target="_blank" rel="noreferrer" title="ESLint">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" width="40" style="margin: 10px;" />
   </a>
-  <a href="https://prettier.io/" target="_blank" rel="noreferrer" title="Prettier">
-    <img src="https://cdn.jsdelivr.net/gh/prettier/prettier-logo/images/prettier-icon-light.svg" alt="Prettier" width="40" style="margin: 10px; background-color: white; border-radius: 8px; padding: 4px;" />
-  </a>
-    <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer" title="Zustand">
-    <img src="https://i.gyazo.com/0b9885319f847c27d71365283769228a.png" alt="Zustand" width="40" style="margin: 10px; border-radius: 8px;" />
-  </a>
+<a href="https://prettier.io/" target="_blank" rel="noreferrer" title="Prettier">
+  <img src="https://cdn.jsdelivr.net/gh/prettier/prettier-logo/images/prettier-icon-light.svg" alt="Prettier" width="40" height="40" />
+</a>
+<a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer" title="Zustand">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zustand/zustand-original.svg" alt="Zustand" width="40" height="40" />
+</a>
     <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" title="Vite">
     <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" style="margin: 10px;" />
   </a>
