@@ -98,6 +98,5 @@
 ---
 ### 🔥 My Stats: 
 
-[![Top Langs](https://github-readme-stats-phi-lake-12.vercel.app/api/top-langs/?username=pavflex&layout=compact&theme=vision-friendly-dark&cache_seconds=8440)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats-jo3e.vercel.app/api/top-langs/?username=pavflex&layout=compact&theme=vision-friendly-dark&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
