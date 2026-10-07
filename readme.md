@@ -78,7 +78,7 @@
   </a>
 </p>
 
-<h3 align="left">🧠 Currently learning:</h3>
+<!-- <h3 align="left">🧠 Currently learning:</h3>
 <p align="left">
   <a href="https://redis.io/" target="_blank" rel="noreferrer" title="Redis">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" style="margin: 10px;" />
@@ -89,11 +89,11 @@
   </a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer" title="Jest">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" style="margin: 10px;" />
-  <!-- </a>
+  </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/overview" target="_blank" rel="noreferrer" title="C#">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" style="margin: 10px;" />
-  </a> -->
-</p>
+  </a>
+</p> -->
 
 ---
 ### 🔥 My Stats: 
